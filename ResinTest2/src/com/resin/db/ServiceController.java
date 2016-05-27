@@ -70,7 +70,7 @@ public class ServiceController {
 		while ((inputStr = streamReader.readLine()) != null) {
 			sb.append(inputStr);
 		}	
-		
+		// JSONObject 를 만들기 위해서 
 		int i = sb.toString().indexOf("{");
 		String result = sb.toString().substring(i);
 		result = result.replace("\\", "");
