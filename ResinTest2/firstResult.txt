@@ -1,0 +1,61 @@
+﻿100row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 0.633 ms
+ Executetation-1 Time  : 0.6327692 ms
+
+95row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 0.573 ms
+ Executetation-1 Time  : 0.5734794 ms
+
+
+200row
+
+Start........
+ Message : NoContent
+ End ......
+ Executetation Time  : 2.081 ms
+ Executetation-1 Time  : 2.0813793 ms
+
+
+300row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 1.171 ms
+ Executetation-1 Time  : 1.1706545 ms
+
+1000row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 11.795 ms
+ Executetation-1 Time  : 11.7946558 ms
+
+2000row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 16.271 ms
+ Executetation-1 Time  : 16.2709588 ms
+
+10,000row
+
+Start........
+ Message : OK
+ End ......
+ Executetation Time  : 90.069 ms
+ Executetation-1 Time  : 90.0694948 ms
+
+
+
+
